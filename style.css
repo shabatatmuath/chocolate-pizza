@@ -1,0 +1,195 @@
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 850px;
+}
+
+#mm {
+    font-family:cursive;
+    font-size: 30px;
+    font-weight: bold;
+    top: 8px;
+    padding-top: -1px;
+}
+
+#ima {
+    float:right;
+    margin-left: -60px;
+  
+}
+
+#im {
+    right: 0px;
+    padding: 2px;
+    padding-bottom: 5px;
+    
+    float: right;
+
+    }
+
+    #im1 {
+      float: right;
+      right: 0px;
+      padding: 2px;
+      padding-bottom: 5px;
+      padding-left: 8px;
+      }
+
+
+
+#md {
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    
+}
+
+
+
+#box2 {
+    display: inline-block;
+    
+}
+#floating-box2 p {
+    padding-left: 25px;
+    width: 100%;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: -1.5px;
+    color: rgb(94, 115, 136);
+}
+#line2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+main img {
+    width: 100%;
+}
+#left{
+    float: left;
+}
+
+article {
+    position: relative;
+}
+
+header p {
+    text-transform: uppercase;
+}
+
+
+
+nav {
+  border-bottom: 10px;
+  border-block-end-style: outset;
+}
+
+#print {
+float: right;
+right: 10px;
+padding: 5px;
+}
+
+#post {
+    float: left;
+}
+
+h4{
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+
+}
+h5 {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: -1.5px;
+    text-transform: uppercase;
+    color: lightslategray;
+}
+#paragraphs {
+    text-indent: 50px;
+
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px; 
+}
+#paragraph p {
+     padding-top: 10px;
+     padding-bottom: 10px;
+     color: lightslategray;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-indent: 50px;
+}
+
+#ingredients img {
+    width: 100%;
+}
+
+#vanessa {
+    vertical-align: text-top;
+}
+
+#box1{
+ float: left;
+ overflow: auto;
+ margin-right: -95px;
+}
+button {
+    background-color: rgb(212, 100, 19);
+    color: white;
+    padding: 15px 10px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+#floating-box1 p {
+    padding-left: 80px;
+    width: 70%;
+    color: rgb(102, 123, 145);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+#floating-box1 h3 {
+    padding-left: 80px;
+    color: lightslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+footer {
+    padding-top: 100px;
+    text-align: center;
+    color: rgba(0, 0,0, .5);
+    font-size: 10px;
+
+}
+
+footer img {
+    width: 70%;
+}
+
+
+html, body {
+    height: 100%;
+}
